@@ -1,0 +1,23 @@
+{
+  "name": "mysqlwithnode",
+  "version": "1.0.0",
+  "description": "CRUD in mysql with nodejs and  expressjs framework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fasulu/mysqlwithexpressframework.git"
+  },
+  "author": "fauslu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fasulu/mysqlwithexpressframework/issues"
+  },
+  "homepage": "https://github.com/fasulu/mysqlwithexpressframework#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
